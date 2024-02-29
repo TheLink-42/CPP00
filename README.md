@@ -42,7 +42,7 @@ Simulate a phonebook with a terminal interactive UI. Create an ADD or SEARCH for
 	 - Displays saved contacts as a list of 4 columns (index, first name, last name, nickname)
 	 - Each column must be 10 characters wide, separated by '|'
 	 - Text must be right-aligned
-	 - If the text is wider than the column, it must be truncated ending in ';'
+	 - If the text is wider than the column, it must be truncated ending in '.'
 
 *	EXIT:
 	 - Program exists and all contacts are lost forever
